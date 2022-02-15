@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: '[Motion perception and pursuit eye movements (PDF)](resources/mit9_04f13_vis12)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lec 12: Motion perception and pursuit eye movements'
 uid: 6a22fae9-e37d-e8a8-88c2-ce36ee3a8ec9
 video_files:
   archive_url: http://www.archive.org/download/MIT9.04F13/MIT9_04F13_lec12_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/9-04-sensory-systems-fall-2013/74b1109c2a1a545394465feb9513c4a9_oPb9AWMN2fY.vtt
+  video_captions_file: /courses/9-04-sensory-systems-fall-2013/74b1109c2a1a545394465feb9513c4a9_oPb9AWMN2fY.vtt
   video_thumbnail_file: https://img.youtube.com/vi/oPb9AWMN2fY/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/9-04-sensory-systems-fall-2013/b61e5301f0503cad7dc1e67d94454bbf_oPb9AWMN2fY.pdf
+  video_transcript_file: /courses/9-04-sensory-systems-fall-2013/b61e5301f0503cad7dc1e67d94454bbf_oPb9AWMN2fY.pdf
 video_metadata:
   youtube_id: oPb9AWMN2fY
 ---

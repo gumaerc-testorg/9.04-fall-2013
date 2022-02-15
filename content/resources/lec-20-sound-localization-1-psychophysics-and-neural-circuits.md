@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lec 20: Sound localization 1: Psychophysics and neural circuits'
 uid: f328a2e2-776b-3143-c867-c0863eb18e3d
 video_files:
   archive_url: http://www.archive.org/download/MIT9.04F13/MIT9_04F13_lec20_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/9-04-sensory-systems-fall-2013/86762d4fd7ed51f1ae81af78e399d9df_Z937cqa--P8.vtt
+  video_captions_file: /courses/9-04-sensory-systems-fall-2013/86762d4fd7ed51f1ae81af78e399d9df_Z937cqa--P8.vtt
   video_thumbnail_file: https://img.youtube.com/vi/Z937cqa--P8/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/9-04-sensory-systems-fall-2013/af02aec5cce9ff1cf393e176f571f743_Z937cqa--P8.pdf
+  video_transcript_file: /courses/9-04-sensory-systems-fall-2013/af02aec5cce9ff1cf393e176f571f743_Z937cqa--P8.pdf
 video_metadata:
   youtube_id: Z937cqa--P8
 ---

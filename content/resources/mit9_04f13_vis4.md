@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 4 notes.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-04-sensory-systems-fall-2013/973b5e9180e8ca09c9c893a45f0b5980_MIT9_04F13_Vis4.pdf
+file: /media/courses/9-04-sensory-systems-fall-2013/973b5e9180e8ca09c9c893a45f0b5980_MIT9_04F13_Vis4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Vision Lecture 4 Notes: The ON and OFF channels'
 uid: 973b5e91-80e8-ca09-c9c8-93a45f0b5980
