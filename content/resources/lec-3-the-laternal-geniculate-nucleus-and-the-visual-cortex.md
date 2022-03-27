@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lec 3: The laternal geniculate nucleus and the visual cortex'
 uid: 8c470795-d302-9a34-0fd0-9d3ad16f43f2
 video_files:

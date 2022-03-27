@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lec 18: Hearing loss; demo by Sheila Xu, cochlear implant user'
 uid: ee24f732-087f-3971-91b7-ef98e7f91d6a
 video_files:

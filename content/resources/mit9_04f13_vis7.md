@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 158dd9fa-3088-54ef-a55c-8820faeeda35
 resourcetype: Document
 title: 'Vision Lecture 7 Notes: Depth perception'
 uid: 665aaa5d-7ed1-cbb1-e499-8a0e523fcf1f

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 158dd9fa-3088-54ef-a55c-8820faeeda35
 resourcetype: Document
 title: 'Vision Lecture 4 Notes: The ON and OFF channels'
 uid: 973b5e91-80e8-ca09-c9c8-93a45f0b5980
