@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Adaptation and color (PDF - 1.6MB)](resources/mit9_04f13_vis6)'
+optional_text: '[Adaptation and color (PDF - 1.6MB)](/courses/9-04-sensory-systems-fall-2013/resources/mit9_04f13_vis6)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture covers color vision and adaptation. The major theories of color vision are discussed along with how color is processed in the retina, LGN and cortex. Also covered in this video are color blindness and adaptation, including after-effects.
 
 **Instructor:** Peter H Schiller
+
+
+

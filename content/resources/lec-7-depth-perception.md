@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Depth perception (PDF - 5.0MB)](resources/mit9_04f13_vis7)'
+optional_text: '[Depth perception (PDF - 5.0MB)](/courses/9-04-sensory-systems-fall-2013/resources/mit9_04f13_vis7)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture covers depth perception, including mechanisms used to analyze depth. The video includes discussions of these mechanisms such as the effects of lesions in V4 or MT regions and stereoblindness, motion parallax, shading and perspective and how depth is processed by cortical structures.
 
 **Instructor:** Peter H Schiller
+
+
+

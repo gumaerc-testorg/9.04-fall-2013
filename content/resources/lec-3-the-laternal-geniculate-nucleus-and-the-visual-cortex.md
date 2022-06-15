@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Lateral geniculate nucleus and the visual cortex (PDF - 4.0MB)](resources/mit9_04f13_vis3)'
+optional_text: '[Lateral geniculate nucleus and the visual cortex (PDF - 4.0MB)](/courses/9-04-sensory-systems-fall-2013/resources/mit9_04f13_vis3)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture covers the lateral geniculate nucleus and the visual cortex, including V1, extrastriate cortex, V2, V4, MT, MST and inferotemporal cortex areas.
 
 **Instructor:** Peter H Schiller
+
+
+

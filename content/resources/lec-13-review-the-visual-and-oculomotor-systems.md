@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Overview of vision (PDF)](resources/mit9_04f13_vis13)'
+optional_text: '[Overview of vision (PDF)](/courses/9-04-sensory-systems-fall-2013/resources/mit9_04f13_vis13)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture includes a review of the visual and oculomotor systems. Topics reviewed include visual system anatomy, perception of depth, form and motion, and eye movement control. Also covered are illusions and visual prosthetics.
 
 **Instructor:** Peter H Schiller
+
+
+

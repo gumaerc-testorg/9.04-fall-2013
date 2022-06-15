@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Basic layout of the retina (PDF)](resources/mit9_04f13_vis2)'
+optional_text: '[Basic layout of the retina (PDF)](/courses/9-04-sensory-systems-fall-2013/resources/mit9_04f13_vis2)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture covers the layout of the visual system and the retina as well as photoreceptors.
 
 **Instructor:** Peter H Schiller
+
+
+

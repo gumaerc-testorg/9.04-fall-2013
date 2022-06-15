@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the writing assignments for the visual and auditory
+  systems sections of the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

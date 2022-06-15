@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Motion perception and pursuit eye movements (PDF)](resources/mit9_04f13_vis12)'
+optional_text: '[Motion perception and pursuit eye movements (PDF)](/courses/9-04-sensory-systems-fall-2013/resources/mit9_04f13_vis12)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture covers how neurons respond to motion and the effects of lesions on motion perception. Other topics also discussed are the ability to determine structure from motion, apparent motion, meta contrast and brightness masking, optokinetic nystagmus, and the accessory optic system.
 
 **Instructor:** Peter H Schiller
+
+
+

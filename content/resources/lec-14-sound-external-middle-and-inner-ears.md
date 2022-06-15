@@ -27,3 +27,6 @@ video_metadata:
 **Description:** This lecture covers the physical properties and complexity of sound as well as the three parts of the auditory periphery and their functions.
 
 **Instructor:** Chris Brown
+
+
+

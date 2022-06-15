@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture covers the auditory cortex. Topics include tonotopic mapping and plasticity, role of field A1 in sound localization, and pitch area near field A1.
 
 **Instructor:** Chris Brown
+
+
+

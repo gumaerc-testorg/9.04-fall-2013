@@ -27,3 +27,6 @@ video_metadata:
 **Description:** This lecture continues with the auditory cortex, focusing on echolocation by bats as well as speech and language. Topics include types of bat echolocation and bat cortical specializations along with speech spectrograms and cortical processing.
 
 **Instructor:** Chris Brown
+
+
+

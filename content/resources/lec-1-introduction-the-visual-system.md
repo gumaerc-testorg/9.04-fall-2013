@@ -5,11 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Introduction to course (PDF)](resources/mit9_04f13_aud_intro)
+optional_text: '[Introduction to course (PDF)](/courses/9-04-sensory-systems-fall-2013/resources/mit9_04f13_aud_intro)
 
 
-  [Visual system (PDF)](resources/mit9_04f13_vis1)'
+  [Visual system (PDF)](/courses/9-04-sensory-systems-fall-2013/resources/mit9_04f13_vis1)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -30,3 +31,6 @@ video_metadata:
 **Description:** This lecture covers the layout and organization of the course as well as separate introductions to the visual system and the auditory system.
 
 **Instructor:** Peter H Schiller and Chris Brown
+
+
+

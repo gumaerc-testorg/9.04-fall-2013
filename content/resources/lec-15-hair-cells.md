@@ -27,3 +27,6 @@ video_metadata:
 **Description:** This lecture covers cochlear anatomy and vibration patterns. Topics include the inner and outer hair cells, OHC electromotility and otoacoustic emissions.
 
 **Instructor:** Chris Brown
+
+
+
