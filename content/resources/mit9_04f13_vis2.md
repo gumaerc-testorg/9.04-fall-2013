@@ -5,6 +5,7 @@ file: /courses/9-04-sensory-systems-fall-2013/73e3b4a0201c3c5642394c1d87b73b99_M
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Vision Lecture 2 Notes: Layout of the retina, lateral geniculate nucleus
 uid: 73e3b4a0-201c-3c56-4239-4c1d87b73b99
 ---
 This file contains information regarding lecture 2 notes.
-

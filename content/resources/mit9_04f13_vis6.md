@@ -5,6 +5,7 @@ file: /courses/9-04-sensory-systems-fall-2013/361e721bfba649ac90ee200b32fcfc6d_M
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Vision Lecture 6 Notes: Color and adaptation'
 uid: 361e721b-fba6-49ac-90ee-200b32fcfc6d
 ---
 This file contains information regarding lecture 6 notes.
-

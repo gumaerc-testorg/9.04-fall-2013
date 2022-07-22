@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[The ON and OFF channels (PDF - 2.3MB)](/courses/9-04-sensory-systems-fall-2013/resources/mit9_04f13_vis4)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture covers the ON and OFF channels and demonstrates the effects of a glutamate analog called 2-amino-4-phosphonobutyrate (APB) on the responses of neurons in the visual system.
 
 **Instructor:** Peter H Schiller
-
-
 

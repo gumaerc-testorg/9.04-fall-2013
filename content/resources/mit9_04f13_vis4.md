@@ -5,6 +5,7 @@ file: /courses/9-04-sensory-systems-fall-2013/973b5e9180e8ca09c9c893a45f0b5980_M
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Vision Lecture 4 Notes: The ON and OFF channels'
 uid: 973b5e91-80e8-ca09-c9c8-93a45f0b5980
 ---
 This file contains information regarding lecture 4 notes.
-

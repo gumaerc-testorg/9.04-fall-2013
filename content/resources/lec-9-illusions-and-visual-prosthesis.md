@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Illusions and visual prosthesis (PDF - 4.1MB)](/courses/9-04-sensory-systems-fall-2013/resources/mit9_04f13_vis9)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture covers illusions and theories used to explain them. Also discussed are the basic requirements and current research of visual prosthesics.
 
 **Instructor:** Peter H Schiller
-
-
 

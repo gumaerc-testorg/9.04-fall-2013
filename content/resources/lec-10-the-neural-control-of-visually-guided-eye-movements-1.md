@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[The neural control of visually guided eye movements, part 1 (PDF
@@ -29,6 +30,4 @@ video_metadata:
 **Description:** This lecture introduces visually guided eye movements, including saccadic and smooth pursuit, and how they are controlled by the brain.
 
 **Instructor:** Peter H Schiller
-
-
 

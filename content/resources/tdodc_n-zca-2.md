@@ -4,6 +4,7 @@ description: ''
 file: /courses/9-04-sensory-systems-fall-2013/4d5ecd1e0e235acbad6ca428ea415911_TdOdc_n-ZCA.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

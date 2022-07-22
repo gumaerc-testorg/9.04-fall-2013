@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Form perception (PDF - 3.5MB)](/courses/9-04-sensory-systems-fall-2013/resources/mit9_04f13_vis8)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture covers form perception, including Gestalt principles of organization and the theories of form perception. Also discussed are the properties of spatial frequency analysis and cortical areas important to intermediate vision, subjective contours, and facial recognition.
 
 **Instructor:** Peter H Schiller
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture continues to focus on sound localization. Topics covered include neural processing of interaural level differences in the lateral superior olive (LSO), projections of the superior olive to the inferior colliculus, room acoustics and the auditory pathways in the barn owl.
 
 **Instructor:** Chris Brown
-
-
 

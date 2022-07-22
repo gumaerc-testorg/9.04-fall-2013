@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[The neural control of visually guided eye movements, part 2 (PDF)](/courses/9-04-sensory-systems-fall-2013/resources/mit9_04f13_vis11)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture covers saccadic eye movements in greater detail, including the role of the superior colliculus, brainstem nuclei and cortical structures involved in saccadic eye movement control. Also discussed are the effects of lesions and pharmacological agents on eye movements.
 
 **Instructor:** Peter H Schiller
-
-
 
