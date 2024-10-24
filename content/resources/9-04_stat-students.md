@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/9-04-sensory-systems-fall-2013/9ae51e9bc56ac9e49e11730eeed510f9_9-04_stat-students.png
+file: /ol-ocw-studio-app/courses/9-04-sensory-systems-fall-2013/9ae51e9bc56ac9e49e11730eeed510f9_9-04_stat-students.png
 file_size: 2950
 file_type: image/png
 image_metadata:
