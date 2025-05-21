@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 1 notes.
-file: /ol-ocw-studio-app/courses/9-04-sensory-systems-fall-2013/8a7663d297f015f9a53dca73261d2edf_MIT9_04F13_Vis1.pdf
+file: /courses/9-04-sensory-systems-fall-2013/8a7663d297f015f9a53dca73261d2edf_MIT9_04F13_Vis1.pdf
 file_size: 1013057
 file_type: application/pdf
 learning_resource_types:

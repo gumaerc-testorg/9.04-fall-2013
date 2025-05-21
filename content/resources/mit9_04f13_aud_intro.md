@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding audition lecture 1 notes.
-file: /ol-ocw-studio-app/courses/9-04-sensory-systems-fall-2013/15396a3f5ceacf99be76cb46933788b8_MIT9_04F13_Aud_intro.pdf
+file: /courses/9-04-sensory-systems-fall-2013/15396a3f5ceacf99be76cb46933788b8_MIT9_04F13_Aud_intro.pdf
 file_size: 273476
 file_type: application/pdf
 learning_resource_types:
