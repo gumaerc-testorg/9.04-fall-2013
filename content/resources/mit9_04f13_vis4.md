@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 4 notes.
-file: /ol-ocw-studio-app/courses/9-04-sensory-systems-fall-2013/973b5e9180e8ca09c9c893a45f0b5980_MIT9_04F13_Vis4.pdf
+file: /courses/9-04-sensory-systems-fall-2013/973b5e9180e8ca09c9c893a45f0b5980_MIT9_04F13_Vis4.pdf
 file_size: 2055881
 file_type: application/pdf
 learning_resource_types:
