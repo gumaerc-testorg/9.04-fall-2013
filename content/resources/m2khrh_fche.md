@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/9-04-sensory-systems-fall-2013/18ca8051389f4540033fc589ba5548aa_M2KHrh_fCHE.srt
+file: /ol-ocw-studio-app/courses/9-04-sensory-systems-fall-2013/18ca8051389f4540033fc589ba5548aa_M2KHrh_fCHE.srt
 file_size: 99814
 file_type: application/x-subrip
 learning_resource_types: []
