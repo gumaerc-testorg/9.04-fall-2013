@@ -9,11 +9,11 @@ title: Readings
 uid: 206144ab-5252-616d-74e4-6527ed0f9807
 ---
 
-\[FundamentalNeuro\] = Squire, Larry, et al, eds. _Fundamental Neuroscience_. 3rd ed. Academic Press, 2008. ISBN: 9780123740199. \[Preview with {{% resource_link "3effe03e-67ef-4a4b-96bb-b876ad260ea2" "Google Books" %}}\]
+\[FundamentalNeuro\] = Squire, Larry, et al, eds. _Fundamental Neuroscience_. 3rd ed. Academic Press, 2008. ISBN: 9780123740199. \[Preview with [Google Books](http://books.google.com/books?id=AEmEn-_hD9IC&pg=PAfrontcover)\]
 
-\[AuditoryNeuro\] = {{% resource_link "401d46cb-5fef-49bc-be47-4bfbad9fbe0f" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Schnupp, J., I. Nelken, and A. King. _Auditory Neuroscience: Making Sense of Sound_. MIT Press, 2010. ISBN: 9780262113182. \[Preview with {{% resource_link "fb97dcd5-7a1b-45da-a57a-e2680b8eee87" "Google Books" %}}\]
+\[AuditoryNeuro\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262113182) Schnupp, J., I. Nelken, and A. King. _Auditory Neuroscience: Making Sense of Sound_. MIT Press, 2010. ISBN: 9780262113182. \[Preview with [Google Books](http://books.google.com/books?id=xbG4R8uHsG8C&pg=PAfrontcover)\]
 
-\[Preparatory Reading\] = {{% resource_link "5555665e-afaa-41ab-9e77-43ee83e892b1" "Schiller Lab web site." %}}
+\[Preparatory Reading\] = [Schiller Lab web site.](http://web.mit.edu/bcs/schillerlab/)
 
 Vision Section
 --------------
@@ -22,17 +22,17 @@ Students should complete the assigned preparatory reading in advance of each cla
 
 \[FundamentalNeuro\] – Chapter 28.
 
-Waessle, H., and B. Boycott. "{{% resource_link "aef3a366-0dcb-4fb5-b78c-5b6af2ee5a5f" "Functional Architecture of the Mammalian Retina" %}}." _Physiological Reviews_ 71, no. 2 (1991): 447–80.
+Waessle, H., and B. Boycott. "[Functional Architecture of the Mammalian Retina](https://www.physiology.org/doi/abs/10.1152/physrev.1991.71.2.447)." _Physiological Reviews_ 71, no. 2 (1991): 447–80.
 
-Schiller, P. H. "{{% resource_link "e76ff535-391a-4ed8-ba39-0ffe201fadf7" "Parallel Information Processing Channels Created in the Retina" %}}." _Proceedings of the National Academy of Sciences of the United States of America_ 107, no. 40 (2010): 17087–94.
+Schiller, P. H. "[Parallel Information Processing Channels Created in the Retina](http://dx.doi.org/10.1073/pnas.1011782107)." _Proceedings of the National Academy of Sciences of the United States of America_ 107, no. 40 (2010): 17087–94.
 
-Schiller, P. H., and C. E. Carvey. "{{% resource_link "e0f63b6d-6667-41d8-a422-5443a37c6288" "The Hermann Grid Illusion Revisited" %}}." _Perception_ 34, no. 11 (2005): 1375–97.
+Schiller, P. H., and C. E. Carvey. "[The Hermann Grid Illusion Revisited](http://www.ncbi.nlm.nih.gov/pubmed/16355743)." _Perception_ 34, no. 11 (2005): 1375–97.
 
 Fafrowicz, Magdalena, et al, eds. Section 5 in _Neuroadaptive Systems: Theory and Applications_. CRC Press, 2012, pp. 97–138. ISBN: 9781439857458.
 
 Sekuler, R., and R. Blake. Chapters 5–8 in _Perception_. McGraw-Hill College, 2001. ISBN: 9780072488951.
 
-Schiller, P. H., and E. J. Tehovnik. "{{% resource_link "b3dcd106-f3ee-41cd-9b2d-7188df5062ea" "Visual Prosthesis" %}}." _Perception_ 37, no. 10 (2008): 1529–59.
+Schiller, P. H., and E. J. Tehovnik. "[Visual Prosthesis](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2801810/)." _Perception_ 37, no. 10 (2008): 1529–59.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -231,7 +231,7 @@ Sound: External, middle, and inner ears
 
 \[AuditoryNeuro\] pp. 1–26, 43–64, 190–3, and 290–1.
 
-Hofman, P. M., J. G. Van Riswick, et al. "{{% resource_link "7946fa3b-6901-4a74-a33a-10021180a047" "Relearning Sound Localization with New Ears" %}}." _Nature Neuroscience_ 1, no. 5 (1998): 417–21.
+Hofman, P. M., J. G. Van Riswick, et al. "[Relearning Sound Localization with New Ears](http://www.nature.com/neuro/journal/v1/n5/full/nn0998_417.html)." _Nature Neuroscience_ 1, no. 5 (1998): 417–21.
 
 
 {{< tdclose >}}
@@ -249,7 +249,7 @@ Hair cells: Transduction, electrophysiology and "cochlear amplifier"
 
 \[AuditoryNeuro\] pp. 64–75.
 
-Liberman M. C., J. Gao, et al. "{{% resource_link "ce974cef-9aef-4289-a923-03d48555c6de" "Prestin is Required for Electromotility of the Outer Hair Cell and for the Cochlear Amplifier" %}}." _Nature_ 419, (2002): 300–4.
+Liberman M. C., J. Gao, et al. "[Prestin is Required for Electromotility of the Outer Hair Cell and for the Cochlear Amplifier](http://dx.doi.org/10.1038/nature01059)." _Nature_ 419, (2002): 300–4.
 
 
 {{< tdclose >}}
@@ -267,7 +267,7 @@ Auditory nerve; psychophysics of frequency resolution
 
 \[AuditoryNeuro\] pp. 75–86, and 94–110.
 
-McKinney, M. F., and B. Delgutte. "{{% resource_link "f70413c7-a03a-412a-a7ee-2cf9b01d63cc" "A Possible Neurophysiological Basis of the Octave Enlargement Effect" %}}." _The Journal of the Acoustical Society of America_ 106, no. 5 (1999): 2679–92.
+McKinney, M. F., and B. Delgutte. "[A Possible Neurophysiological Basis of the Octave Enlargement Effect](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2346780/)." _The Journal of the Acoustical Society of America_ 106, no. 5 (1999): 2679–92.
 
 
 {{< tdclose >}}
@@ -297,7 +297,7 @@ Hearing loss and cochlear implants. Demonstration by implant user
 
 \[AuditoryNeuro\] pp. 295–319.
 
-Moore, D. R., and R. V. Shannon. "{{% resource_link "f3cace1a-6f0a-4fde-a858-a52566916c41" "Beyond Cochlear Implants: Awakening the Deafened Brain" %}}." _Nature Neuroscience_ 12 (2009): 686–91.
+Moore, D. R., and R. V. Shannon. "[Beyond Cochlear Implants: Awakening the Deafened Brain](http://dx.doi.org/10.1038/nn.2326)." _Nature Neuroscience_ 12 (2009): 686–91.
 
 
 {{< tdclose >}}
@@ -317,7 +317,7 @@ Descending systems and reflexes: OC efferents and middle ear muscles
 
 Brown, M. "Efferent Systems to the Auditory Periphery." In _Encyclopedia of Neuroscience_. 4th ed. Edited by L. Squire, T. Albright, F. Bloom, F. Gage, and N. Spitzer. Academic Press, 2009. ISBN: 9780080446172.
 
-Delano P., D. Elgueda, et al. "{{% resource_link "08c7554d-8220-48ab-9d59-73cfe471ec46" "Selective Attention to Visual Stimuli Reduces Cochlear Sensitivity in Chinchillas" %}}." _The_ _Journal of Neuroscience_ 27, no. 15 (2007): 4146–53.
+Delano P., D. Elgueda, et al. "[Selective Attention to Visual Stimuli Reduces Cochlear Sensitivity in Chinchillas](http://dx.doi.org/10.1523/JNEUROSCI.3702-06.2007)." _The_ _Journal of Neuroscience_ 27, no. 15 (2007): 4146–53.
 
 
 {{< tdclose >}}
@@ -335,7 +335,7 @@ Sound Localization, part 1: Psychophysics and neural circuits
 
 \[AuditoryNeuro\] pp. 177–88.
 
-Brand, A., O. Behrend, et al. "{{% resource_link "dc6a0b38-f3bb-4a3b-90d6-098c8d57549f" "Precise Inhibition is Essential for Microsecond Interaural Time Difference Coding" %}}." _Nature_ 417 (2002): 543–7.
+Brand, A., O. Behrend, et al. "[Precise Inhibition is Essential for Microsecond Interaural Time Difference Coding](http://dx.doi.org/10.1038/417543a)." _Nature_ 417 (2002): 543–7.
 
 
 {{< tdclose >}}
@@ -353,7 +353,7 @@ Sound localization, part 2: Superior olivary complex and inferior colliculus
 
 \[AuditoryNeuro\] pp. 189–209.
 
-Knudsen, E. I. "{{% resource_link "c73af381-4333-4a14-80b6-f865ff48b067" "Capacity for Plasticity in the Adult Owl Auditory System Expanded by Juvenile Experience" %}}." _Science_ 279, no. 5356 (1998): 1531–3.
+Knudsen, E. I. "[Capacity for Plasticity in the Adult Owl Auditory System Expanded by Juvenile Experience](http://dx.doi.org/10.1126/science.279.5356.1531)." _Science_ 279, no. 5356 (1998): 1531–3.
 
 
 {{< tdclose >}}
@@ -371,7 +371,7 @@ Auditory cortex, Part 1: General physiology and role in sound localization
 
 \[AuditoryNeuro\] pp. 88–92, and 209–19.
 
-Penagos, H., J. R. Melcher, et al. "{{% resource_link "548e14f8-4ac3-4f68-b9bb-88eb9c4d466e" "A Neural Representation of Pitch Salience in Nonprimary Human Auditory Cortex Revealed with Functional Magnetic Resonance Imaging" %}}." _The Journal of Neuroscience_ 24, no. 3 (2004): 6810–5.
+Penagos, H., J. R. Melcher, et al. "[A Neural Representation of Pitch Salience in Nonprimary Human Auditory Cortex Revealed with Functional Magnetic Resonance Imaging](http://dx.doi.org/10.1523/JNEUROSCI.0383-04.2004)." _The Journal of Neuroscience_ 24, no. 3 (2004): 6810–5.
 
 
 {{< tdclose >}}
@@ -389,9 +389,9 @@ Auditory cortex, Part 2: Language; bats and echolocation
 
 \[AuditoryNeuro\] pp. 34–9, 139–52, and 161–4.
 
-Suga, N. "{{% resource_link "88cfdcd3-e9f8-428f-8670-ad1a90425b23" "Biosonar and neural computation in bats (PDF – 1.5MB)" %}}." _Scientific American_ 262 (1990): 60–8.
+Suga, N. "[Biosonar and neural computation in bats (PDF – 1.5MB)](http://www.cog.brown.edu/courses/cg195/pdf_files/CG195Suga90.pdf)." _Scientific American_ 262 (1990): 60–8.
 
-Caplan, D. T., and J. L. Gould. "Language and Communication—the part on human language." In _Fundamental Neuroscience_. 3rd ed. Edited by L. R. Squire, D. Berg, F. E. Bloom, et al. Academic Press, 2008, pp. 1184–98. ISBN: 9780123740199. \[Preview with {{% resource_link "319fc254-7643-4229-b3ef-12ac09b33327" "Google Books" %}}\]
+Caplan, D. T., and J. L. Gould. "Language and Communication—the part on human language." In _Fundamental Neuroscience_. 3rd ed. Edited by L. R. Squire, D. Berg, F. E. Bloom, et al. Academic Press, 2008, pp. 1184–98. ISBN: 9780123740199. \[Preview with [Google Books](http://books.google.com/books?id=GOxrtYzmixcC&pg=PA1184=onepage)\]
 
 
 {{< tdclose >}}
@@ -453,6 +453,6 @@ Exam
 Supplemental Vision Readings
 ----------------------------
 
-Rockland, K. S., J. H. Kaas, and A. Peters, eds. Chapter 2 in _Cerebral Cortex: Volume 12: Extrastriate Cortex in Primates_. Springer, 1998. ISBN: 9780306455308. \[Preview with {{% resource_link "4b01f86e-a6b8-47d7-8cff-807346b16502" "Google Books" %}}\]
+Rockland, K. S., J. H. Kaas, and A. Peters, eds. Chapter 2 in _Cerebral Cortex: Volume 12: Extrastriate Cortex in Primates_. Springer, 1998. ISBN: 9780306455308. \[Preview with [Google Books](http://books.google.com/books?id=PLLmPLsbMpsC&pg=PA59#v=onepage)\]
 
-Schiller, P. H., and C. E. Carvey. "{{% resource_link "d8f674a2-593e-4ba3-b183-ad32883ad6d7" "Demonstrations of Spatio-Temporal Integration and What They Tell us About the Visual System" %}}." _Perception_ 35, no. 11 (2006): 1521–55.
+Schiller, P. H., and C. E. Carvey. "[Demonstrations of Spatio-Temporal Integration and What They Tell us About the Visual System](http://dx.doi.org/10.1068/p5564)." _Perception_ 35, no. 11 (2006): 1521–55.
